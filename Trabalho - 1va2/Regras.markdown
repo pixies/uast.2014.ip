@@ -18,6 +18,7 @@ Sistema-1
 1.2. Deverá executar: Soma, Subtração, Divisão (divizão por zero), Multiplicação;
 1.2. O sistema deverá ser iniciado, ficando em '''loop''', deverá apresentar a seguinte tela:
 
+```
 	################## Super Calculadora ####################
 	#							#
 	# Está é a super calculadora, se ideintifique para usar	#
@@ -34,8 +35,9 @@ Sistema-1
 	# 	(L) Listar só as pessoas			#
 	#	(LO) Lista pessoas e as operações		#
 	#							#
-	#########################################################
- 
+	######################################################### 
+```
+
 1.2.1 O sistema deverá armazenar as indormações das operações em uma lista (array)
 1.2.2. O sistema deverá armasenar as informações da seguinte forma: 
 
