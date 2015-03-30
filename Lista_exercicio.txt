@@ -1,0 +1,9 @@
+http://wiki.python.org.br/EstruturaSequencial
+http://wiki.python.org.br/EstruturaDeDecisao
+http://wiki.python.org.br/EstruturaDeRepeticao
+http://wiki.python.org.br/ExerciciosListas
+http://wiki.python.org.br/ExerciciosFuncoes
+http://wiki.python.org.br/ExerciciosComStrings
+http://wiki.python.org.br/ExerciciosArquivos
+http://wiki.python.org.br/ExerciciosClasses
+http://wiki.python.org.br/ListaDeExerciciosProjetos
